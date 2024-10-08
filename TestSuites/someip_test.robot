@@ -4,7 +4,7 @@ Library           BuiltIn
 Library           Collections
 
 *** Variables ***
-${SOMEIP_SERVER_IP}      192.168.1.100  # The IP address of the SOME/IP server
+${SOMEIP_SERVER_IP}      192.168.10.30  # The IP address of the SOME/IP server
 ${SOMEIP_SERVER_PORT}    30490          # The port on which the server is listening for UDP events
 
 *** Test Cases ***
